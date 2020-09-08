@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: test-custom-starter
+ytj:
+    service:
+        prefix: hello
+        suffix: god
+        enabled: true
