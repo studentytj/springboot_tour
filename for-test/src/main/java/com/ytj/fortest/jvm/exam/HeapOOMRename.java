@@ -8,7 +8,7 @@ import java.util.List;
  * VM Args: -Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
  * Program Args：hi a b c d
  */
-public class HeapOOM {
+public class HeapOOMRename {
     static class OOMObject {}
 
     public static void main(String[] args) {
